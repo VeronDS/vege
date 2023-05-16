@@ -1,0 +1,7 @@
+@media screen and (max-width:600px){
+    body{color: blue; font-size: 20pt;}
+}
+
+@media(orientation:landscape){
+    body{color: rebeccapurple}
+}
